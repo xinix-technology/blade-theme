@@ -1,0 +1,19 @@
+{
+    "name": "xinix-technology/blade-theme",
+    "description": "Basic Blade Theme Resolver Class",
+    "license": "MIT",
+    "require": {
+        "xinix-technology/bono-blade": "~1.0.0"
+    },
+    "authors": [
+        {
+            "name": "Xinix Technology",
+            "email": "hello@xinix.co.id"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Xinix\\Theme": "src"
+        }
+    }
+}
