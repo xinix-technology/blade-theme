@@ -1,3 +1,3 @@
-#Bono Blade Theme
+# blade-theme
 
-Basic Blade Theme Resolver Class
+tbd
